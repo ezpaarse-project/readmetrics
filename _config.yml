@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
 title: "ReadMETRICS : a software pack including ezPAARSE and ezMESURE"
 author: GitHub User
-email: your-email@domain.com
+email: ezteam at couperin.org
 description: > # this means to ignore newlines until "baseurl:"
   ezPAARSE is an open-source software that can ingest your (proxy) log files and show how users access subscribed electronic resources. 
   It filters, extracts and enriches the consultation events that were spotted and produces a CSV file following COUNTER codes of practice.
