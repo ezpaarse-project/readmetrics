@@ -2,10 +2,10 @@ theme: jekyll-theme-architect
 title: "ReadMETRICS : a software pack including ezPAARSE and ezMESURE"
 author: GitHub User
 email: ezteam at couperin.org
-description: "ezPAARSE is an open-source software that can ingest your (proxy) log files and show how users access subscribed electronic resources. 
-  | It filters, extracts and enriches the consultation events that were spotted and produces a CSV file following COUNTER codes of practice.
-  | 
-  | ezMESURE is an open-source software you can use to build a repository centralizing the usage statistics data produced by one or many instances of ezPAARSE. "
+description: "ezPAARSE is an open-source software that can ingest your (proxy) log files and show how users access subscribed electronic resources.\ 
+  It filters, extracts and enriches the consultation events that were spotted and produces a CSV file following COUNTER codes of practice.\ 
+  \ 
+  ezMESURE is an open-source software you can use to build a repository centralizing the usage statistics data produced by one or many instances of ezPAARSE.\ "
 
 # social links
 twitter_username: ezpaarse # DO NOT include the @ character, or else the build will fail!
