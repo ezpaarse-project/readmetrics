@@ -1,11 +1,8 @@
 theme: jekyll-theme-cayman
-title: "ReadMETRICS : a software pack including ezPAARSE and ezMESURE"
+title: "ReadMETRICS: a software pack for usage statistics"
 author: GitHub User
 email: ezteam at couperin.org
-description: "ezPAARSE is an open-source software that can ingest your (proxy) log files and show how users access subscribed electronic resources.\ 
-  It filters, extracts and enriches the consultation events that were spotted and produces a CSV file following COUNTER codes of practice.\ 
-  \ 
-  ezMESURE is an open-source software you can use to build a repository centralizing the usage statistics data produced by one or many instances of ezPAARSE.\ "
+description: "ReadMETRICS includes ezPAARSE and ezMESURE and is also able of ingesting COUNTER 5 data, giving you a full overview of electronic resources usage"
 
 # social links
 twitter_username: ezpaarse # DO NOT include the @ character, or else the build will fail!
