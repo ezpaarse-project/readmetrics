@@ -1,12 +1,15 @@
 # Welcome to ReadMETRICS
 
-I'm glad you are here. I plan to talk about ReadMETRICS !
-A new turnkey solution for monitoring transformative agreements, including before and beyond; analyse usage across disciplines and consortia; assess value of publishing spend; enable comparative citation analysis. Based on existing ezPAARSE and ezMESURE tools, extending and including features inspired by the Luxembourg “New Metrics” project
+ReadMETRICS is a new turnkey solution for:
+- monitoring transformative agreements, including before and beyond; 
+- analyzing usage across disciplines and consortia; 
+- assessing value of publishing spend; 
+- enabling comparative citation analysis. 
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+It is based on the already existing and field-tested [ezPAARSE](https://www.ezpaarse.org) and [ezMESURE](https://ezmesure.couperin.org) Free and Open Source tools, extending and including features inspired by the National Library of Luxemburg “New Metrics” project.
+
+TODO:
+- link to new metrics (BNL)
+- link to Inist-CNRS
+- link to Couperin.org
+- ezpaarse YT chanel
