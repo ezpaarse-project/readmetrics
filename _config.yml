@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-title: "ReadMETRICS: a software pack for usage statistics"
+title: "ReadMETRICS: a Robust Software Bundle for Usage Statistics"
 author: GitHub User
 email: ezteam at couperin.org
-description: "ReadMETRICS includes ezPAARSE and ezMESURE and is also able of ingesting COUNTER 5 data, giving you a full overview of electronic resources usage"
+description: "Providing you with a full overview of your institution's electronic resources usage"
 
 # social links
 twitter_username: ezpaarse # DO NOT include the @ character, or else the build will fail!
