@@ -22,6 +22,7 @@ It filters, extracts and enriches the access events that were spotted and produc
 
 ## ezMESURE
 An [open-source software](https://github.com/ezpaarse-project/ezmesure/) built upon [Elastic and Kibana](https://www.elastic.co/) to assemble a repository centralizing the usage statistics data produced by one or many instances of ezPAARSE. It is also able to ingest [COUNTER5](https://www.projectcounter.org/code-of-practice-five-sections/abstract/) data.
+![example of an ezMesure dashboard](/assets/ezmesure_dashboard.png)
 
 ## Links
 - Luxemburg National Library [Consortial Department](https://www.consortium.lu/)
