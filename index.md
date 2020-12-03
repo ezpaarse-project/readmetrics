@@ -5,7 +5,7 @@ ReadMETRICS is a new turnkey solution for:
 - assessing value of publishing spend; 
 - enabling comparative citation analysis. 
 
-It is based on the already existing and field-tested [ezPAARSE](https://www.ezpaarse.org) and [ezMESURE](https://ezmesure.couperin.org) Free and Open Source tools, extending and including features inspired by the [National Library of Luxembourg](https://bnl.public.lu/fr/decouvrir/reseaux/consortium.html#)'s transition to Open Access, described [here](https://www.consortium.lu/?page_id=6334).
+It is based on the already existing and field-tested [ezPAARSE](https://www.ezpaarse.org) and [ezMESURE](https://ezmesure.couperin.org) Free and Open Source tools, extending and including features inspired by the [National Library of Luxembourg](https://bnl.public.lu/)'s transition to Open Access, described [here](https://www.consortium.lu/?page_id=6334).
 
 <iframe frameborder="0" style="width:100%;height:440px;" src="https://viewer.diagrams.net/?p=anim&highlight=0000ff&edit=_blank&layers=1&nav=1&title=2020-10-08-readmetrics-architecture.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-IVxBpzs6TXC1M-Q6pYoAu_OYUG2PQe1%26export%3Ddownload"></iframe>
 
