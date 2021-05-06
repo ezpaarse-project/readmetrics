@@ -10,7 +10,7 @@ It is based on the already existing and field-tested [ezPAARSE](https://www.ezpa
 <iframe frameborder="0" style="width:100%;height:440px;" src="https://viewer.diagrams.net/?p=anim&highlight=0000ff&edit=_blank&layers=1&nav=1&title=2020-10-08-readmetrics-architecture.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-IVxBpzs6TXC1M-Q6pYoAu_OYUG2PQe1%26export%3Ddownload"></iframe>
 
 ## Timeline
-We are working to make the readMetrics stack **available by February 2021**. In the meantime the tools that constitute the stack are already available and can be deployed and used by interested pilot sites. Please do not hesitate to [contact us](mailto:readmetrics@couperin.org) directly!  
+We are working to make the readMetrics stack **available by Summer 2021**. In the meantime the tools that constitute the stack are already available and can be deployed and used by interested pilot sites. Please do not hesitate to [contact us](mailto:readmetrics@couperin.org) directly!  
 
 ## Financing the Team and the Tools
 The team currently includes 6 people, financially supported by Inist-CNRS and the consortium Couperin.org with more occasional help from third-party structures (BnL and OCLC).
